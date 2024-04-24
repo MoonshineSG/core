@@ -20,7 +20,7 @@
     {"name": "DB Dead Bug 4/6 kg"},
     {"name": "Lateral Bear Crawl"}
 
-  ]
+  ],
   "template": [
     {"name": "", "seconds": 60, "splitLR": false}
   ]
