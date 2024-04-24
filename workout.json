@@ -1,7 +1,14 @@
-{workouts:[
-  {
-    name: "launges 5/7kg"
-    seconds: 23
-    isLR: false
-  }
-]}
+{
+  "workouts": [
+    {
+      "name": "launges 5/7kg",
+      "seconds": 30,
+      "isLR": false
+    },
+    {
+      "name": "squats with 5/7kg",
+      "seconds": 30,
+      "isLR": false
+    }
+  ]
+}
