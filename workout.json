@@ -4,12 +4,12 @@
     {
       "name": "launges 5/7kg",
       "seconds": 30,
-      "isLR": false
+      "isLR": 0
     },
     {
       "name": "squats with 5/7kg",
       "seconds": 30,
-      "isLR": false
+      "isLR": 1
     }
   ]
 }
