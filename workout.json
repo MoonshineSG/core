@@ -1,15 +1,27 @@
 {
   "version": 1,
   "workouts": [
-    {
-      "name": "launges 5/7kg",
-      "seconds": 30,
-      "splitLR": false
-    },
-    {
-      "name": "squats with 5/7kg",
-      "seconds": 30,
-      "splitLR": true
-    }
+    {"name": "Deadbug"},
+    {"name": "Bird Dog"},
+    {"name": "V hold with DB press 2/4kg"},
+    
+    {"name": "High Plank Shoulder Tap"},
+    {"name": "Starfish Plank"},
+    {"name": "Straight Arm DB Hold with Alternate Leg Lower"},
+    
+    {"name": "Low Plank to Rotation"},
+    {"name": "High Plank Crossover Knee Drive"},
+    {"name": "Hip Bridge March"},
+
+    {"name": "DB Renegade Row 4/6 kg"},
+    {"name": "Low Side Plank Reach Under"},
+
+    {"name": "High Plank DB Pull Through 6/8 kg"},
+    {"name": "DB Dead Bug 4/6 kg"},
+    {"name": "Lateral Bear Crawl"},
+
+  ]
+  "template": [
+    {"name": "", "seconds": 60, "splitLR": false}
   ]
 }
