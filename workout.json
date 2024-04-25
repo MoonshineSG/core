@@ -1,20 +1,20 @@
 {
-  "version": 1.11,
+  "version": 1.12,
   "workouts": [
     {"name": "Deadbug"},
     {"name": "Bird Dog"},
     {"name": "V hold with DB press 2/4kg"},
     
     {"name": "High Plank Shoulder Tap"},
-    {"name": "Starfish Plank"},
+    {"name": "Starfish Plank", "splitLR": true},
     {"name": "Straight Arm DB Hold with Alternate Leg Lower"},
     
-    {"name": "Low Plank to Rotation"},
+    {"name": "Low Plank to Rotation", "splitLR": true},
     {"name": "High Plank Crossover Knee Drive"},
     {"name": "Hip Bridge March"},
 
     {"name": "DB Renegade Row 4/6 kg"},
-    {"name": "Low Side Plank Reach Under"},
+    {"name": "Low Side Plank Reach Under", "splitLR": true},
 
     {"name": "High Plank DB Pull Through 6/8 kg"},
     {"name": "DB Dead Bug 4/6 kg"},
