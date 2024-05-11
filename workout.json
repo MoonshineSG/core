@@ -20,6 +20,9 @@
     {"name": "DB Dead Bug 4/6 kg"},
     {"name": "Lateral Bear Crawl"}
 
+    {"name": "Plank with DB row to press 4/8 kg"},
+    {"name": "Bear Bird Dog"},
+
   ],
   "template": [
     {"name": "", "seconds": 60, "splitLR": false}
