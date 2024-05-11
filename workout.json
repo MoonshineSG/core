@@ -1,5 +1,5 @@
 {
-  "version": 1.13,
+  "version": 1.14,
   "workouts": [
     {"name": "Deadbug"},
     {"name": "Bird Dog"},
@@ -18,10 +18,10 @@
 
     {"name": "High Plank DB Pull Through 6/8 kg"},
     {"name": "DB Dead Bug 4/6 kg"},
-    {"name": "Lateral Bear Crawl"}
+    {"name": "Lateral Bear Crawl"},
 
     {"name": "Plank with DB row to press 4/8 kg"},
-    {"name": "Bear Bird Dog"},
+    {"name": "Bear Bird Dog"}
 
   ],
   "template": [
