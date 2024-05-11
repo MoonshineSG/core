@@ -1,12 +1,12 @@
 {
-  "version": 1.14,
+  "version": 1.15,
   "workouts": [
     {"name": "Deadbug"},
     {"name": "Bird Dog"},
     {"name": "V hold with DB press 2/4kg"},
     
     {"name": "High Plank Shoulder Tap"},
-    {"name": "Starfish Plank", "splitLR": true},
+    {"name": "Starfish Plank", "seconds": 30, "splitLR": true},
     {"name": "Straight Arm DB Hold with Alternate Leg Lower"},
     
     {"name": "Low Plank to Rotation", "splitLR": true},
