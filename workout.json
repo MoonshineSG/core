@@ -1,5 +1,5 @@
 {
-  "version": 1.16,
+  "version": 1.17,
   "workouts": [
     {"name": "Deadbug"},
     {"name": "Bird Dog"},
@@ -21,12 +21,12 @@
     {"name": "Lateral Bear Crawl"},
 
     {"name": "Plank with DB row to press 4/8 kg"},
-    {"name": "Bear Bird Dog"}
+    {"name": "Bear Bird Dog"},
 
-    {"name": "Superman"}
+    {"name": "Superman"},
 
-    {"name": "Sway drill"}
-    {"name": "Snowboard squats"}
+    {"name": "Sway drill"},
+    {"name": "Snowboard squats"},
     {"name": "Palloff Rotations"}
     
 
