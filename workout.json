@@ -1,5 +1,5 @@
 {
-  "version": 1.17,
+  "version": 1.18,
   "workouts": [
     {"name": "Deadbug"},
     {"name": "Bird Dog"},
@@ -27,8 +27,13 @@
 
     {"name": "Sway drill"},
     {"name": "Snowboard squats"},
-    {"name": "Palloff Rotations"}
-    
+    {"name": "Palloff Rotations"},
+    {"name": "Plank up"},
+    {"name": "DB Russian Twist 6/8 kg"}
+
+
+
+
 
   ],
   "template": [
