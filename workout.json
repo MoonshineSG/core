@@ -1,5 +1,5 @@
 {
-  "version": 1.18,
+  "version": 1.19,
   "workouts": [
     {"name": "Deadbug"},
     {"name": "Bird Dog"},
@@ -30,7 +30,9 @@
     {"name": "Palloff Rotations"},
     
     {"name": "Plank up"},
-    {"name": "DB Russian Twist 6/8 kg"}
+    {"name": "DB Russian Twist 6/8 kg"},
+
+    {"name": "Low side plank hip drop"}
 
 
 
