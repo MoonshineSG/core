@@ -1,5 +1,5 @@
 {
-  "version": 1.20,
+  "version": 1.21,
   "workouts": [
     {"name": "Deadbug"},
     {"name": "Bird Dog"},
@@ -36,10 +36,10 @@
 
     {"name": "Low side plank crunch"},
     {"name": "High plank bird dog"},
-    {"name": "Upright crunch"}
+    {"name": "Upright crunch"},
 
-
-
+    {"name": "Kneeling DB woodchop 6/8kg"},
+    {"name": "High Plank Walk out"}
 
   ],
   "template": [
