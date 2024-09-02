@@ -1,7 +1,7 @@
 {
-  "version": 1.22,
+  "version": 1.23,
   "workouts": [
-    {"name": "Deadbug", "description": "On the back hands up", "link":"https://experiencelife.lifetime.life/wp-content/uploads/2020/11/the-dead-bug.jpg" },
+    {"name": "Deadbug", "explain": "On the back hands up", "link":"https://experiencelife.lifetime.life/wp-content/uploads/2020/11/the-dead-bug.jpg" },
     {"name": "Bird Dog"},
     {"name": "V hold with DB press 2/4kg"},
     
