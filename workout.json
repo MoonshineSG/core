@@ -1,5 +1,5 @@
 {
-  "version": 1.23,
+  "version": 1.24,
   "workouts": [
     {"name": "Deadbug", "explain": "On the back hands up", "link":"https://experiencelife.lifetime.life/wp-content/uploads/2020/11/the-dead-bug.jpg" },
     {"name": "Bird Dog"},
@@ -13,7 +13,7 @@
     {"name": "High Plank Crossover Knee Drive"},
     {"name": "Hip Bridge March"},
 
-    {"name": "DB Renegade Row 4/6 kg"},
+    {"name": "DB Renegade Row  6/8 kg"},
     {"name": "Low Side Plank Reach Under", "splitLR": true},
 
     {"name": "High Plank DB Pull Through 6/8 kg"},
@@ -41,7 +41,20 @@
     {"name": "Kneeling DB woodchop 6/8kg"},
     {"name": "High Plank Walk out"}
 
-  ],
+
+    {"name": "Low Side Plank Reach Under"},
+    {"name": "Dead Bug"},
+    {"name": "Creepy Crawler"},
+    {"name": "Plank with Rotation"},
+    
+    {"name": "Butterfly Crunch"},
+    
+    {"name": "High Plank T rotation"},
+    {"name": "Reverse Crunch"},
+    {"name": "DB Renegate Row 6/8kg"}
+    
+
+      ],
   "template": [
     {"name": "", "seconds": 60, "splitLR": false}
   ]
